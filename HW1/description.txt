@@ -1,0 +1,2 @@
+This programming assignment asks you to read in a series of commands and execute it using stack and queue.
+You are expected to implement stacks and queues with O(1).
