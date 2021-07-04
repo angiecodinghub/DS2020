@@ -1,4 +1,4 @@
-# NTU_DS2020
+# DS2020
 
 * Homework 1:<br/>
   This programming assignment asks you to read in a series of commands and execute it using **stack** and **queue**.<br/>
