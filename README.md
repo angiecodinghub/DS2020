@@ -1,6 +1,9 @@
-# DS2020
-
-* Homework 1:<br/>
+# Data Structure
+Here are some implementations of Data Structures mentioned in: <br/>
+Problem Solving with Algorithms and Data Stuctures using Python by B. Miller, D. Ranum and Luther College <br/>
+Introduction to Algorithms, 3rd Edition by Thomas H. Cormen, Charles E. Leiseron, Ronald L. Rivest and Clifford Stein <br/>
+<br/>
+* HW1:<br/>
   This programming assignment asks you to read in a series of commands and execute it using **stack** and **queue**.<br/>
   However, you should be able to implement stacks and queues with **O(1)**.<br/>
   Input | Output
@@ -13,7 +16,7 @@
   PUSH 6 | >> Node(00009) >> Node(00008) >> Node(00007) >> Node(00006)
   POP | >> Node(00008) >> Node(00007) >> Node(00006)
   POP | >> Node(00007) >> Node(00006)
-* Homework 2:<br/>
+* HW2:<br/>
   Implement **regular expression matching**. Rules for pattern are as below:<br/>
   a. '.' Matches any single character.<br/>
   b. '*' Matches zero or more of the preceding element.<br/>
@@ -21,7 +24,7 @@
   Input | Output
   ------| ------
   text = ”ab”, pattern = ”.*” | true
-* Homework 3:<br/>
+* HW3:<br/>
   You're going to implement a **BS Tree**. Your BS Tree needs to have the following functions:<br/>
   1. insert()<br/>
   The key in each node must be greater than any key stored in the left sub-tree, and less than any key stored in the right sub-tree. <br/>
@@ -31,13 +34,13 @@
   Print the current tree in the preorder traversal sequence. <br/>
   1. inorder() <br/>
   Print the current tree in the inorder traversal sequence. <br/>
-* Homework 4: <br/>
+* HW4: <br/>
   You're going to implement a **min heap**. Your min heap needs to have the following functions: <br/>
   1. insert() <br/>
   The key in each node is less than every child nodes. <br/>
   1. delMin() <br/>
 The function will pop out the smallest node in the heap, and maintain the heap structure within the rest elements. <br/>
-* Homework 5: <br/>
+* HW5: <br/>
   You are going to implement a **hash table**. Your hash table needs to have the following functions: <br/>
   1. Insert n <br/>
   Please insert the item n into the hash table. <br/>
