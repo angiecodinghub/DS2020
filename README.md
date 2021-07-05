@@ -1,4 +1,4 @@
-# Data Structure
+# Data Structures
 Here are some implementations of Data Structures mentioned in: <br/>
 Problem Solving with Algorithms and Data Stuctures using Python by B. Miller, D. Ranum and Luther College <br/>
 Introduction to Algorithms, 3rd Edition by Thomas H. Cormen, Charles E. Leiseron, Ronald L. Rivest and Clifford Stein <br/>
